@@ -168,7 +168,7 @@ async def play(_, message: Message):
                 InlineKeyboardButton(
                     "🚑 Support", url=f"https://t.me/UNIQUE_SUPPORT"
                 ),
-                InlineKeyboardButton("Updates 📢", url=f"https://t.me/THE_BLAZE_NETWORK"),
+                InlineKeyboardButton("Updates 📢", url=f"https://t.me/UNIQUE_LIFELINE"),
             ],
         ]
     )
@@ -211,7 +211,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                          "🚑 Support", url=f"https://t.me/UNIQUE_SUPPORT"
                 ),
-                InlineKeyboardButton("Updates 📢", url=f"https://t.me/THE_BLAZE_NETWORK"),
+                InlineKeyboardButton("Updates 📢", url=f"https://t.me/UNIQUE_LIFELINE"),
             ],
         ]
     )
@@ -232,7 +232,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                         "🚑 Support", url=f"https://t.me/UNIQUE_SUPPORT"
                 ),
-                InlineKeyboardButton("Updates 📢", url=f"https://t.me/THE_BLAZE_NETWORK"),
+                InlineKeyboardButton("Updates 📢", url=f"https://t.me/UNIQUE_LIFELINE"),
             ],
         ]
     )
@@ -290,7 +290,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                         "🚑 Support", url=f"https://t.me/UNIQUE_SUPPORT"
                 ),
-                InlineKeyboardButton("Updates 📢", url=f"https://t.me/THE_BLAZE_NETWORK"),
+                InlineKeyboardButton("Updates 📢", url=f"https://t.me/UNIQUE_LIFELINE"),
             ],
         ]
     )
