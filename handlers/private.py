@@ -11,7 +11,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/55fdbedd3115d8c363d2f.jpg",
-        caption=f"""**⛦➪ Tʜɪs Is Aᴅᴠᴀɴᴄᴇ Tᴇʟᴇɢʀᴀᴍ Mᴜsɪᴄ 🎧 Bᴏᴛ Rᴜɴ Oɴ Pᴜʙʟɪᴄ VPS Sᴇʀᴠᴇʀ 📡 Fᴇᴇʟ Hɪɢʜ Qᴜᴀʟɪᴛʏ ❣️  Mᴜsɪᴄ Iɴ Vᴄ  Dᴇᴠᴇʟᴏᴘᴇᴅ Bʏ ➪ [ᗩɴᴋɪᴛ Ꮶʜᴜsʜɪ](t.me/UNIQUE_LIFELINE)
+        caption=f"""**⛦➪ Tʜɪs Is Aᴅᴠᴀɴᴄᴇ Tᴇʟᴇɢʀᴀᴍ Mᴜsɪᴄ 🎧 Bᴏᴛ Rᴜɴ Oɴ Pᴜʙʟɪᴄ Բʀᴇᴇ VPS Sᴇʀᴠᴇʀ 📡 Fᴇᴇʟ Hɪɢʜ Qᴜᴀʟɪᴛʏ ❣️  Mᴜsɪᴄ Iɴ Vᴄ  Dᴇᴠᴇʟᴏᴘᴇᴅ Bʏ ➪ [ᗩɴᴋɪᴛ Ꮶʜᴜsʜɪ](t.me/UNIQUE_LIFELINE)
 
 ⛦➪ Ꮯʀᴇᴀᴛᴏʀ :- [ᗩɴᴋɪᴛ Ꮶʜᴜsʜɪ](t.me/KHUSHI_SHUKLA_XD)
 
