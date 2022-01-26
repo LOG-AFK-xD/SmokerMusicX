@@ -161,8 +161,8 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("❣️ ᗩɴᴋɪᴛ", url=f"t.me/Ankit_shukla_xD"),
-                InlineKeyboardButton("Ꮶʜᴜsʜɪ ❣️", url=f"t.me/khushi_shukla_xD"),
+                InlineKeyboardButton("💜 ᗩnkit", url=f"t.me/Ankit_shukla_xD"),
+                InlineKeyboardButton("Ꮶhushi 🖤", url=f"t.me/khushi_shukla_xD"),
             ],
             [
                 InlineKeyboardButton(
@@ -204,8 +204,8 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("❣️ ᗩɴᴋɪᴛ", url=f"t.me/Ankit_shukla_xD"),
-                    InlineKeyboardButton("Ꮶʜᴜsʜɪ ❣️", url=f"t.me/khushi_shukla_xD"),
+                    InlineKeyboardButton("💜 ᗩnkit", url=f"t.me/Ankit_shukla_xD"),
+                    InlineKeyboardButton("Ꮶhushi 🖤", url=f"t.me/khushi_shukla_xD"),
                ],
                [
                     InlineKeyboardButton(
@@ -225,8 +225,8 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("❣️ ᗩɴᴋɪᴛ", url=f"t.me/Ankit_shukla_xD"),
-                    InlineKeyboardButton("Ꮶʜᴜsʜɪ ❣️", url=f"t.me/khushi_shukla_xD"),
+                    InlineKeyboardButton("💜 ᗩnkit", url=f"t.me/Ankit_shukla_xD"),
+                    InlineKeyboardButton("Ꮶhushi 🖤", url=f"t.me/khushi_shukla_xD"),
                 ],
                 [
                     InlineKeyboardButton(
@@ -283,8 +283,8 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("❣️ ᗩɴᴋɪᴛ", url=f"t.me/Ankit_shukla_xD"),
-                    InlineKeyboardButton("Ꮶʜᴜsʜɪ ❣️", url=f"t.me/khushi_shukla_xD"),
+                    InlineKeyboardButton("💜 ᗩnkit", url=f"t.me/Ankit_shukla_xD"),
+                    InlineKeyboardButton("Ꮶhushi 🖤", url=f"t.me/khushi_shukla_xD"),
                 ],
                 [
                     InlineKeyboardButton(
