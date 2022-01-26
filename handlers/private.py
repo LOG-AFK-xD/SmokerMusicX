@@ -26,9 +26,14 @@ async def help(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(
-                        "💥 Cʟɪᴄᴋ Mᴇ Tᴏ Gᴇᴛ Rᴇᴘᴏ 💞", url=f"https://t.me/Friendschattinggrp")
-                ]
-            ]
-        ),
+                    InlineKeyboardButton("❣️ ᗩɴᴋɪᴛ", url=f"t.me/Ankit_shukla_xD"),
+                InlineKeyboardButton("Ꮶʜᴜsʜɪ ❣️", url=f"t.me/khushi_shukla_xD"),
+            ],
+            [
+                InlineKeyboardButton(
+                    "🚑 Տᴜᴘᴘᴏʀᴛ", url=f"https://t.me/UNIQUE_SOCIETY"
+                ),
+                InlineKeyboardButton("Ⴎᴘᴅᴀᴛᴇs 📢", url=f"https://t.me/UNIQUE_LIFELINE"),
+            ],
+        ]
     )
