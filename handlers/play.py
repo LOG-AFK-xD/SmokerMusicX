@@ -166,7 +166,7 @@ async def play(_, message: Message):
             ],
             [
                 InlineKeyboardButton(
-                    "🚑 Տᴜᴘᴘᴏʀᴛ", url=f"https://t.me/UNIQUE_SUPPORT"
+                    "🚑 Տᴜᴘᴘᴏʀᴛ", url=f"https://t.me/UNIQUE_SOCIETY"
                 ),
                 InlineKeyboardButton("Ⴎᴘᴅᴀᴛᴇs 📢", url=f"https://t.me/UNIQUE_LIFELINE"),
             ],
@@ -209,7 +209,7 @@ async def play(_, message: Message):
                ],
                [
                     InlineKeyboardButton(
-                         "🚑 Support", url=f"https://t.me/UNIQUE_SUPPORT"
+                         "🚑 Support", url=f"https://t.me/UNIQUE_SOCIETY"
                 ),
                 InlineKeyboardButton("Updates 📢", url=f"https://t.me/UNIQUE_LIFELINE"),
             ],
@@ -230,7 +230,7 @@ async def play(_, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                       "🚑 Support", url=f"https://t.me/UNIQUE_SUPPORT"
+                       "🚑 Support", url=f"https://t.me/UNIQUE_SOCIETY"
                 ),
                 InlineKeyboardButton("Updates 📢", url=f"https://t.me/UNIQUE_LIFELINE"),
             ],
@@ -288,7 +288,7 @@ async def play(_, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                         "🚑 Support", url=f"https://t.me/UNIQUE_SUPPORT"
+                         "🚑 Support", url=f"https://t.me/UNIQUE_SOCIETY"
                 ),
                 InlineKeyboardButton("Updates 📢", url=f"https://t.me/UNIQUE_LIFELINE"),
             ],
